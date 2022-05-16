@@ -1,13 +1,13 @@
 body{
     background: pink; 
-    text-align:left;
+    text-align:justify;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: white;
-    text-align: left;
+    text-align: justify;
     font-size: 1.2cm;
 }
 
@@ -29,3 +29,9 @@ h4{
 p{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+div{
+    padding: 50px;
+    text-align:justify;
+    width:50%;
+}
+    
