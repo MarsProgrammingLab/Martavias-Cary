@@ -1,18 +1,21 @@
 import {Link, NavLink} from 'react-router-dom'
 import './index.scss'
 import marsprogramminglab from '../../images/MarsProgrammingLab.png'
-import myName from '../../images/martavias.png'
+// import myName from '../../images/martavias.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHome, faUser } from '@fortawesome/free-solid-svg-icons'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import { faGithub } from '@fortawesome/free-brands-svg-icons'
 
-const Sidebar= () => (
+/* img element below belongs in div 'nav-bar */
+// <img className= "sub-logo" src={myName} alt="MartaviasCary" />  
+
+const Sidebar= () => ( 
     <div className='nav-bar'>
         <Link className='logo' to='/'>
             <img src={marsprogramminglab} alt="logo" />
-            <img className= "sub-logo" src={myName} alt="MartaviasCary" />
+            
         </Link>
         <nav>
             <NavLink exact="true" activeclassname="active" to="/">
