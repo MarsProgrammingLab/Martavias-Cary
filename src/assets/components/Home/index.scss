@@ -9,7 +9,8 @@
         width: 40%;
         max-height: 90%;
     }
-   h1 {
+   
+    h1 {
        color: white;
        font-size: 53px;
        margin: 0;
@@ -42,6 +43,44 @@
            width: 70px;
            margin-bottom: -20px;
            margin-right: -10px;
+           margin-left: 10px;
+           opacity: 0;
+           height: auto;
+           animation: rotateIn 1s linear both;
+           animation-delay: 1.4s;
        }
-   } 
+
+
+       }
+       
+       h2 {
+           color: grey;
+           margin-top: 20px;
+           font-weight: 400;
+           font-size: 11px;
+           font-family: sans-serif;
+           letter-spacing: 3px;
+           animation: fadeIn 1s 1.8s backwards;
+       }
+
+       .flat-button {
+           color: greenyellow;
+           font-size: 13px;
+           font-weight: 400;
+           letter-spacing: 4px;
+           font-family: sans-serif;
+           text-decoration: none;
+           padding: 10px 10px;
+           border: 1px solid greenyellow;
+           margin-top: 25px;
+           float: left;
+           animation: fadeInAnimation 1s 1.8s backwards;
+           white-space: nowrap;
+
+           &:hover {
+               background: greenyellow;
+               color: #32174d;;
+           }
+            
+        } 
 }
