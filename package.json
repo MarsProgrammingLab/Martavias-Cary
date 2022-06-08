@@ -2,7 +2,7 @@
   "name": "martavias-portfolio",
   "version": "0.1.0",
   "private": true,
-  
+  "homepage": "https://marsprogramminglab.github.io/Martavias-Cary/",
   "dependencies": {
     "-": "0.0.1",
     "@emailjs/browser": "^3.6.2",
