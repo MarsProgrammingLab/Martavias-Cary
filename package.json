@@ -4,6 +4,7 @@
   "private": true,
   
   "dependencies": {
+    "-": "0.0.1",
     "@emailjs/browser": "^3.6.2",
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-brands-svg-icons": "^6.1.1",
@@ -14,6 +15,7 @@
     "@testing-library/user-event": "^13.5.0",
     "@types/prop-types": "^15.7.5",
     "animate.css": "^4.1.1",
+    "gh-pages": "^4.0.0",
     "gsap-trial": "^3.10.4",
     "loaders.css": "^0.1.2",
     "prop-types": "^15.8.1",
@@ -24,6 +26,7 @@
     "react-router-dom": "^6.3.0",
     "react-scripts": "^5.0.1",
     "sass": "^1.51.0",
+    "save-dev": "0.0.1-security",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
