@@ -1,9 +1,10 @@
 {
-  "name": "martavias-portfolio",
+  "homepage": "https://marsprogramminglab.github.io/Martavias-Cary/",
+  "name": "martavias-cary",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://marsprogramminglab.github.io/Martavias-Cary/",
-  "proxy": "http://localhost:5000",
+  
+  "proxy": "https://localhost:3000",
   "dependencies": {
     "-": "0.0.1",
     "@emailjs/browser": "^3.6.2",
