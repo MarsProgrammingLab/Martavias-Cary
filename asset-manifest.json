@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Martavias-Cary/static/css/main.b50cbe64.css",
-    "main.js": "/Martavias-Cary/static/js/main.60639a75.js",
+    "main.js": "/Martavias-Cary/static/js/main.bef85374.js",
     "static/js/787.7926b1a5.chunk.js": "/Martavias-Cary/static/js/787.7926b1a5.chunk.js",
     "static/media/M-solid.png": "/Martavias-Cary/static/media/M-solid.f3aec40c84939db19a8c.png",
     "static/media/M-transparent.png": "/Martavias-Cary/static/media/M-transparent.74dd5576e74eba658b31.png",
@@ -10,11 +10,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/Martavias-Cary/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/Martavias-Cary/index.html",
     "main.b50cbe64.css.map": "/Martavias-Cary/static/css/main.b50cbe64.css.map",
-    "main.60639a75.js.map": "/Martavias-Cary/static/js/main.60639a75.js.map",
+    "main.bef85374.js.map": "/Martavias-Cary/static/js/main.bef85374.js.map",
     "787.7926b1a5.chunk.js.map": "/Martavias-Cary/static/js/787.7926b1a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b50cbe64.css",
-    "static/js/main.60639a75.js"
+    "static/js/main.bef85374.js"
   ]
 }
